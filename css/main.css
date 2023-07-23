@@ -1,0 +1,39 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.drop {
+    width: 150px;
+    height: 200px;
+    background: center url('/img/drop.jpg');
+    background-size: 150px 200px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.horn {
+    width: 150px;
+    height: 200px;
+    background: center url('/img/horn.jpg');
+    background-size: 150px 200px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.machine {
+    width: 150px;
+    height: 200px;
+    background: center url('/img/machine.jpeg');
+    background-size: 150px 200px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.result {
+    width: 90vw;
+    height: 500px;
+    margin: 0 auto;
+    background-color: azure;
+}
