@@ -7,7 +7,7 @@
 .drop {
     width: 150px;
     height: 200px;
-    background: center url('img/drop.jpg');
+    background: center url("../img/drop.jpg");
     background-size: 150px 200px;
     margin: 20px;
     cursor: pointer;
@@ -16,7 +16,7 @@
 .horn {
     width: 150px;
     height: 200px;
-    background: center url('img/horn.jpg');
+    background: center url("../img/horn.jpg");
     background-size: 150px 200px;
     margin: 20px;
     cursor: pointer;
@@ -25,7 +25,7 @@
 .machine {
     width: 150px;
     height: 200px;
-    background: center url('img/machine.jpeg');
+    background: center url("../img/machine.jpeg");
     background-size: 150px 200px;
     margin: 20px;
     cursor: pointer;
